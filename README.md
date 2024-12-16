@@ -9,16 +9,16 @@
 ### 个人简介
 - 🐕 姓名: lihuikun
 - 👦 性别: 男
-- 🥑 公众号: 【前端的日常】
+- ☺️ 爱生活
 
 ### 仓库信息
-[github仓库](https://github.com/lihuikun/lihuikun)   
+[github仓库](https://github.com/LxcCoder/LxcCoder)   
 
 ### 博客简介
 
 | lihuikun| 前端的日常 |
 | :----:| :----: | 
-| 掘金 | [https://juejin.cn/user/3664010809185870](https://juejin.cn/user/3664010809185870)| 
+| 掘金 | [https://juejin.cn/user/3562848571893063)| 
 
 ### 文章推荐
 
