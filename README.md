@@ -7,9 +7,9 @@
 ![](https://github.com/lihuikun/lihuikun/blob/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
-- 🐕 姓名: lihuikun
+- 🐕 姓名: lixicai
 - 👦 性别: 男
-- ☺️ 爱生活
+- ☺️ 爱 生 活
 
 ### 仓库信息
 [github仓库](https://github.com/LxcCoder/LxcCoder)   
