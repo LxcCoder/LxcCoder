@@ -9,7 +9,7 @@
 ### 个人简介
 - 🐕 姓名: lixicai
 - 👦 性别: 男
-- ☺️ 爱 生 活
+- 🥑 爱好: 打游戏
 
 ### 仓库信息
 [github仓库](https://github.com/LxcCoder/LxcCoder)   
